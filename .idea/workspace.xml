@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13c7c80c-09b3-445f-815a-291d8c5f154a" name="Changes" comment="Homework">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="13c7c80c-09b3-445f-815a-291d8c5f154a" name="Changes" comment="Homework fixed v.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664217672062</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Homework fixed v.1">
+      <created>1664469684675</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664469684675</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +135,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Level_2 and Level_3" />
     <MESSAGE value="Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework" />
+    <MESSAGE value="Homework fixed v.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework fixed v.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
